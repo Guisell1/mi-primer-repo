@@ -12,3 +12,7 @@ Este formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.
 ## [0.1.0] - 2021-12-15
 ### Added
 - Ficheros Book.java y Member.java
+## [0.2.0] - 2025-01-21
+### Added
+- Añadida la clase `Vehicle.java` a la carpeta `java`.
+
